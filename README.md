@@ -1,3 +1,3 @@
-# Procesamiento Digital de Imagenes
+# Ejercicios de logica
 
-Repositorio de trabajos para la materia de procesamiento digital de imagenes
+12 de febrero de 2024
