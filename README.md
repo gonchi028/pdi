@@ -1,3 +1,3 @@
 # Procesamiento Digital de Imagenes
 
-Repositorio de trabajos para la materia de procesamiento digital de imagenes
+Aqui se documentara todo el avance de la materia.
